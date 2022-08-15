@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://vadym:vadym-store-2003@cluster0.oohde.mongodb.net/store?retryWrites=true&w=majority",
+  "accessSecret": "super secret access token",
+  "refreshSecret": "super secret refresh token"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "faKey",
+    "name": "Real estate",
+    "id": "real-estate"
+  },
+  {
+    "icon": "faCar",
+    "name": "Auto",
+    "id": "auto"
+  },
+  {
+    "icon": "faWrench",
+    "name": "Spare parts for transport",
+    "id": "spare-parts"
+  },
+  {
+    "icon": "faHammer",
+    "name": "Home and garden",
+    "id": "home-and-garden"
+  },
+  {
+    "icon": "faComputer",
+    "name": "Laptops and computers",
+    "id": "laptops-computers"
+  },
+  {
+    "icon": "faMobileScreen",
+    "name": "Smartphones, TV and electronics",
+    "id": "electronics"
+  },
+  {
+    "icon": "faGamepad",
+    "name": "Goods for gamers",
+    "id": "for-gamers"
+  },
+  {
+    "icon": "faShirt",
+    "name": "Clothes, shoes and jewelry",
+    "id": "clothes-shoes-jewelry"
+  },
+  {
+    "icon": "faVolleyball",
+    "name": "Sports and hobbies",
+    "id": "sport"
+  },
+  {
+    "icon": "faDog",
+    "name": "Animals",
+    "id": "animals"
+  },
+  {
+    "icon": "faBabyCarriage",
+    "name": "Children's goods",
+    "id": "children's"
+  },
+  {
+    "icon": "faBusinessTime",
+    "name": "Business and services",
+    "id": "business-and-services"
+  }
+]

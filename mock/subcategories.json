@@ -1,0 +1,87 @@
+[
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Ftablets?alt=media&token=bb6314b1-e366-4cff-8f4c-e49cdc81a003",
+    "name": "Tablets",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fkeyboard-mice?alt=media&token=9b693579-c386-49ce-98e5-709efc8643fa",
+    "name": "Keyboards and mice",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Foffice-equipment?alt=media&token=affc411e-eab9-4f20-9865-abc12cc1a9e4",
+    "name": "Office equipment",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fmicrophones?alt=media&token=23ce1a56-6686-4fa6-82c4-4169e51675c4",
+    "name": "Microphones",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fcables-adapters?alt=media&token=72df29be-3ab3-4307-acd2-c04633441b15",
+    "name": "Cables and adapters",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Flaptops?alt=media&token=0c49daf1-780c-4ce2-b555-188b00560d05",
+    "name": "Laptops",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fnetwork-equipment?alt=media&token=f76fe8f2-4120-434a-a41c-476821fb4a2e",
+    "name": "Network equipment",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fheadphones-accessories?alt=media&token=40af304a-15a2-465a-9a3c-85e0879d072b",
+    "name": "Headphones and accessories",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fcomputers?alt=media&token=ccb75f4b-1041-40d8-ad20-a201040f1a1a",
+    "name": "Computers, candy bars",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Felectronics-accessories?alt=media&token=e801a3ef-e7b2-4129-a3e6-6a0b09a6cfa7",
+    "name": "Electronics accessories",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fmonitors?alt=media&token=085e9095-5593-4f0d-9b6c-a4ec0d571dd2",
+    "name": "Monitors",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fcomputer-components?alt=media&token=52ac1291-fcd2-4d68-83a5-e56049cb16bb",
+    "name": "Computer components",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "https://firebasestorage.googleapis.com/v0/b/store-ddd1a.appspot.com/o/subcategories%2Fspeaker-system?alt=media&token=bb49499a-a753-4595-a7db-d1452466346f",
+    "name": "Speaker system",
+    "parent_id": "62f2a30cc257b910f58b736c"
+  },
+  {
+    "image": "",
+    "name": "Legal services",
+    "parent_id": "62f2a30cc257b910f58b7366"
+  },
+  {
+    "image": "",
+    "name": "Sale of business",
+    "parent_id": "62f2a30cc257b910f58b7366"
+  },
+  {
+    "image": "",
+    "name": "Materials, raw materials",
+    "parent_id": "62f2a30cc257b910f58b7366"
+  },
+  {
+    "image": "",
+    "name": "Marketing",
+    "parent_id": "62f2a30cc257b910f58b7366"
+  }
+]

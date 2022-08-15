@@ -1,0 +1,17 @@
+[
+  {
+    "id": "orders",
+    "name": "Orders",
+    "icon": "faListCheck"
+  },
+  {
+    "id": "published-orders",
+    "name": "Published orders",
+    "icon": "faCircleCheck"
+  },
+  {
+    "id": "wishlist",
+    "name": "Wish list",
+    "icon": "faHeart"
+  }
+]

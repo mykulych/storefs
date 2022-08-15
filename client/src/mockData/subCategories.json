@@ -1,0 +1,80 @@
+[
+  {
+    "image": "laptop.png",
+    "name": "Laptops",
+    "id": "laptops",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "computer.png",
+    "name": "Computers, candy bars",
+    "id": "computers",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "monitor.webp",
+    "name": "Monitors",
+    "id": "monitors",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "tablet.webp",
+    "name": "Tablets",
+    "id": "tablets",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "adapter.webp",
+    "name": "Cables and adapters",
+    "id": "cables-adapters",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "computer-component.png",
+    "name": "Computer components",
+    "id": "computer-components",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "network-equipment.png",
+    "name": "Network equipment",
+    "id": "network-equipment",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "headphones.png",
+    "name": "Headphones and accessories",
+    "id": "headphones-accessories",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "keyboard.webp",
+    "name": "Keyboards and mice",
+    "id": "keyboard-mice",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "laptop-stand.png",
+    "name": "Electronics accessories",
+    "id": "electronics-accessories",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "office-equipment.png",
+    "name": "Office equipment",
+    "id": "office-equipment",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "speaker-system.png",
+    "name": "Speaker system",
+    "id": "speaker-system",
+    "parent_id": "laptops-computers"
+  },
+  {
+    "image": "microphones.webp",
+    "name": "Microphones",
+    "id": "microphones",
+    "parent_id": "laptops-computers"
+  }
+]
