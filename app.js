@@ -7,7 +7,7 @@ const path = require("path");
 const initDatabase = require("./startup/initDatabase");
 const routes = require("./routes");
 
-const PORT = config.get("port");
+const PORT = process.env.PORT || '8080'
 
 const app = express();
 
@@ -29,7 +29,7 @@ async function start() {
     mongoose.connection.once("open", () => {
       initDatabase();
     });
-    await mongoose.connect(config.get("mongoUri"));
+    await mongoose.connect(process.env.MONGO_URI);
     console.log(chalk.green("MongoDB connected."));
     app.listen(PORT, () => {
       console.log(chalk.green(`Server has been started on port ${PORT}...`));
