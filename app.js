@@ -7,7 +7,7 @@ const path = require("path");
 const initDatabase = require("./startup/initDatabase");
 const routes = require("./routes");
 
-const PORT = process.env.PORT || '8080'
+const PORT = process.env.PORT || "8080";
 
 const app = express();
 
@@ -29,7 +29,10 @@ async function start() {
     mongoose.connection.once("open", () => {
       initDatabase();
     });
-    await mongoose.connect(process.env.MONGO_URI);
+    await mongoose.connect(
+      process.env.MONGO_URI ||
+        "mongodb+srv://vadym:vadym-store-2003@cluster0.oohde.mongodb.net/store?retryWrites=true&w=majority"
+    );
     console.log(chalk.green("MongoDB connected."));
     app.listen(PORT, () => {
       console.log(chalk.green(`Server has been started on port ${PORT}...`));
