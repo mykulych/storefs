@@ -55,7 +55,6 @@ const loadCollection = (array) => async (dispatch) => {
   dispatch(requested());
   try {
     const { content } = await adsServices.getCollection(array);
-    console.log('content: ', content);
     dispatch(received(content));
   } catch (error) {
     dispatch(failed());
@@ -142,7 +141,6 @@ const removeAd = (id) => async (dispatch) => {
 const sellAds = (payload) => async (dispatch, getState) => {
   dispatch(sellRequested());
   const accountId = getState().auth.accountId;
-  console.log('accountId: ', accountId);
   try {
     await adsServices.sell(payload);
     customHistory.push('/result/success', {

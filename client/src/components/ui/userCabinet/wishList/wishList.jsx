@@ -18,7 +18,7 @@ function Wishlist() {
     dispatch(loadCollection(accountData.wishlist));
   }, []);
 
-  if (!accountData.wishlist?.length) {
+  if (!accountData?.wishlist?.length || !ads?.length) {
     return (
       <div className="flex flex-col w-full justify-center items-center space-y-2 h-64">
         <EmptyPage title="Wish list is empty" btnTitle="Main page" path="/" />

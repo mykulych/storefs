@@ -22,11 +22,8 @@ function PersonalData() {
     setValue('email', accountData?.email);
   }, []);
 
-  console.log('accountData: ', accountData);
-
   const onSubmit = (data) => {
     dispatch(updateAccount({ ...data, id: accountData.id }));
-    console.log(data);
   };
 
   const handleLogOut = () => {
