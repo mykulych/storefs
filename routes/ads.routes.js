@@ -63,7 +63,7 @@ router.patch("/sell", auth, async (req, res) => {
 
     const wishlistPromise = user.wishlist?.map(async (id) => {
       const ad = await Ad.findById(id.toString());
-      if (!ad.buyer) {
+      if (!ad?.buyer) {
         return id.toString();
       }
       return null;
