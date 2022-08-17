@@ -10,9 +10,7 @@ function AdImagesField({ register, fields, append, remove, getValues, watch }) {
   useEffect(() => {}, [watchAdImages]);
 
   useEffect(() => {
-    return () => {
-      append({});
-    };
+    append({});
   }, []);
 
   const handleClick = async () => {
